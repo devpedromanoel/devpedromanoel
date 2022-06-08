@@ -1,16 +1,16 @@
-### Hi there 👋
+<img align="left" src="https://c.tenor.com/1f5_2MkOz8cAAAAC/8bit-dance.gif">
 
-<!--
-**devpedromanoel/devpedromanoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Hey!</h1>
+  <p>
+   I'm someone who is passionate about Open Source Softwares and likes to write code.
 
-Here are some ideas to get you started:
+  - Currently, I'm working as a Software Engineer Intern
+  - I'm try to mastering **Java** and **Spring Boot**
+  - Most of my projects are built with **TypeScript** and **NextJs**
+  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=2C02B4)](https://linkedin.com/in/devpedromanoel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=2C02BC)](https://twitter.com/devpedromanoel)
+  </p>
+</div>
