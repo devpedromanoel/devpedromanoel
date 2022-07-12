@@ -6,7 +6,7 @@
    I'm someone who is passionate about Open Source Softwares and likes to write code.
 
   - Currently, I'm working as a Software Engineer Intern
-  - I'm try to mastering **Java** and **Spring Boot**
+  - I'm mastering **Java** and **Spring Boot**
   - Most of my projects are built with **TypeScript** and **NextJs**
   
   
